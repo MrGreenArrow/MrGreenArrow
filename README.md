@@ -1,3 +1,2 @@
 - Physics Student
-- Interest in Game Development and Cybersecurity
-- Go easy on me, I'm new to coding lol
+- Interest in Game Development, Cybersecurity, and computational research.
